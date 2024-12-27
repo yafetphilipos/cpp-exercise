@@ -16,7 +16,7 @@ Return Type     | None	                           | None
 Number	        | Can have multiple (overloading)  | Only one
 
 */
-// Example with Destructor and Comments
+// Example 
 #include <iostream>
 using namespace std;
 
