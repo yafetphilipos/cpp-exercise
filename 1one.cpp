@@ -1,3 +1,12 @@
+// ###########################################################################
+// ############## Introduction to Computer Programming #######################
+// ############## Group Assignment Questions(20pt) ###########################
+// ###########################################################################
+/*
+    Group Members
+    1. Eyael Mekuanint  ETS0508/16
+    2. 
+*/
 // Program 1: Matrix Multiplication using Arrays and Functions
 #include <iostream>
 #include <limits> // For input validation

@@ -1,3 +1,12 @@
+// ###########################################################################
+// ############## Introduction to Computer Programming #######################
+// ############## Group Assignment Questions(20pt) ###########################
+// ###########################################################################
+/*
+    Group Members
+    1. Eyael Mekuanint  ETS0508/16
+    2. 
+*/
 /*
  Question B: Destructor in OOP
 A destructor is a special member function (method) of a class that is automatically called when an object of that class is about to be destroyed or goes out of scope. 

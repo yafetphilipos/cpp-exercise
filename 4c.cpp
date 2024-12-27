@@ -1,3 +1,12 @@
+// ###########################################################################
+// ############## Introduction to Computer Programming #######################
+// ############## Group Assignment Questions(20pt) ###########################
+// ###########################################################################
+/*
+    Group Members
+    1. Eyael Mekuanint  ETS0508/16
+    2. 
+*/
 /*
 Question C: Default Constructor
 A default constructor is a special type of constructor in object-oriented programming that is automatically called when an object of a class is created,
